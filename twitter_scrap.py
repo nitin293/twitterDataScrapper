@@ -69,7 +69,7 @@ class TwitterScrap:
 
 
 if __name__ == '__main__':
-    consumer_key = input("Enter Consumer Secret API Key :")
+    consumer_key = input("Enter Consumer API Key :")
     consumer_secret = input("Enter Consumer Secret API Key :")
     access_token = input("Enter Access Token :")
     access_token_secret = input("Enter Access Secret Token :")
